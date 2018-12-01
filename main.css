@@ -7,3 +7,8 @@ p{text-align: center; color: black}
 body{background-color:#07B3DE}
 
 img{align-content:center}
+
+.jumbotron{ 
+    background-image: url("https://media.holidayme.com/wp-content/uploads/2018/01/11071826/holidayme_best_places_swiss_alps_lake_oeschinen_604048316.jpg");
+    background-size: cover
+}
